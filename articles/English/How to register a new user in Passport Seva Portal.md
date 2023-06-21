@@ -25,6 +25,9 @@ mPassport Seva is now available on Android and iOS platforms. Latest version of 
 
 ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.jpg)
 
+step3:
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture15.png)
+
  
 Note: You need to have a gmail ID (chepravlogs@gmail) to verify the registered user ID
 	Click here to check the appointment availability at all PSK/POPSK/PSLK.
