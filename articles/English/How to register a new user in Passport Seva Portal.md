@@ -20,8 +20,10 @@ Or
 mPassport Seva is now available on Android and iOS platforms. Latest version of the application can be downloaded from the following:
 * [mPassport Seva - Android](https://play.google.com/store/apps/details?id=gov.mea.psp)
 * [mPassport Seva](https://apps.apple.com/us/app/mpassport-seva/id723492146?ls=1)
- 
-Register yourself as a new user by creating User ID by clicking on New User Registration on the Home page as shown:
+
+**Step2:** Register yourself as a new user by creating User ID by clicking on New User Registration on the Home page as shown:
+
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.jpg)
 
  
 Note: You need to have a gmail ID (chepravlogs@gmail) to verify the registered user ID
