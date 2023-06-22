@@ -17,7 +17,7 @@ In this tutorial, you learn how to:
 
 Or 
 
-mPassport Seva is now available on Android and iOS platforms. Latest version of the application can be downloaded from the following:
+`mPassport Seva` is now available on Android and iOS platforms. Latest version of the application can be downloaded from the following:
 * [mPassport Seva - Android](https://play.google.com/store/apps/details?id=gov.mea.psp)
 * [mPassport Seva](https://apps.apple.com/us/app/mpassport-seva/id723492146?ls=1)
 
