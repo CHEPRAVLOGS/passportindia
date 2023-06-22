@@ -23,8 +23,8 @@ Or
 
 # **Step2:** Click on Existing User Login.
 
-![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.jpg)
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/Fresh%20Passport/Picture1.jpg)
 
 Enter these details: Login ID , Password & characters displayed.  
 
-![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture2.jpg)
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/Fresh%20Passport/Picture2.jpg)
