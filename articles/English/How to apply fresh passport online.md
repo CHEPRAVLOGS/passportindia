@@ -97,9 +97,9 @@ In this steps, kindly spend **5 mins** to verifying the details entered and the 
 
 ## **Step12:** SELF DECLARATION
 
-* Enter the details of the proof of birth & address which you are carrying to the passport office (PSK or POPSK).
-* Enter the place & date and I agree and submit
-* 
+* Enter the details of the proof of `birth` & `address` which you are carrying to the passport office (PSK or POPSK).
+* Enter the `place` & `date` and `I agree` and `submit`.
+  
 ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/Fresh%20Passport/Picture13.jpg)
 
 Your application form has been submitted succesfully.
@@ -134,9 +134,6 @@ Login to the Passport Seva Kendra portal => View Saved/Submitted Applications =>
 
 ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/Fresh%20Passport/Picture19.jpg)
 
+We had successfully applied for fresh passport from Passport Seva Portal.
 
-
-
-
-
-
+### In case, if you like the article, please do like, share and subscribe to **CHEPRA VLOGS** for more informational videos. 
