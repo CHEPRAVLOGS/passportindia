@@ -10,3 +10,5 @@ ms.topic: tutorial
 # Tutorial: How to apply fresh passport online??
 
 This tutorial walks you how to apply fresh passport online??
+
+# **STEP1:** Go to 
