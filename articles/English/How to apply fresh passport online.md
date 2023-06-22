@@ -11,4 +11,12 @@ ms.topic: tutorial
 
 This tutorial walks you how to apply fresh passport online??
 
-# **STEP1:** Step1: Visit passport seva portal (Website): `https://passportindia.gov.in/`
+**Step1:** Visit passport seva portal (Website): `https://passportindia.gov.in/`
+
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture0.jpg)
+
+Or 
+
+`mPassport Seva` is now available on Android and iOS platforms. Latest version of the application can be downloaded from the following:
+* [mPassport Seva - Android](https://play.google.com/store/apps/details?id=gov.mea.psp)
+* [mPassport Seva](https://apps.apple.com/us/app/mpassport-seva/id723492146?ls=1)
