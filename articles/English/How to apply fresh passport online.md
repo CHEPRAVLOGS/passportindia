@@ -22,3 +22,9 @@ Or
 * [mPassport Seva](https://apps.apple.com/us/app/mpassport-seva/id723492146?ls=1)
 
 # **Step2:** Click on Existing User Login.
+
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.jpg)
+
+Enter these details: Login ID , Password & characters displayed.  
+
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture2.jpg)
