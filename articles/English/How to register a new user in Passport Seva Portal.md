@@ -23,15 +23,13 @@ Or
 
 **Step2:** Register yourself as a new user by creating User ID by clicking on New User Registration on the Home page as shown:
 
-![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture15.png)
-
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.png)
 
  
-Note: You need to have a gmail ID (chepravlogs@gmail) to verify the registered user ID
-	Click here to check the appointment availability at all PSK/POPSK/PSLK.
-	Appointment Availability Status 
-	 
-	 
+**Note:** You need to have a gmail ID (`chepravlogs@gmail`) to verify the registered user ID
+* [Click here](https://portal1.passportindia.gov.in/AppOnlineProject/online/apptAvailStatus) to check the appointment availability at all PSK/POPSK/PSLK.
+### Appointment Availability Status 
+ ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture2.png)
 
 OR
 
