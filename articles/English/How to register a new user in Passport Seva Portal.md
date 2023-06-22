@@ -23,16 +23,8 @@ mPassport Seva is now available on Android and iOS platforms. Latest version of 
 
 **Step2:** Register yourself as a new user by creating User ID by clicking on New User Registration on the Home page as shown:
 
-<p align="center" >
-<img src="https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.jpg" />
-
-</p>
-
-step3:
 ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture15.png)
 
-step4:
- ![image](https://github.com/CHEEKATLAPRADEEP-MSFT/chepraacademy/blob/main/articles/databricks/Media/Start%20Azure%20Databricks%20clusters%20during%20business%20hours/Install-Module.png)
 
  
 Note: You need to have a gmail ID (chepravlogs@gmail) to verify the registered user ID
