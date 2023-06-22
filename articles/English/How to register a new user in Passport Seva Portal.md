@@ -11,7 +11,6 @@ ms.topic: tutorial
 
 This tutorial walks you through the creation of register a new user in Passport Seva Portal
 
-In this tutorial, you learn how to:
 
 **Step1:** Visit passport seva portal (Website): `https://passportindia.gov.in/`
 
