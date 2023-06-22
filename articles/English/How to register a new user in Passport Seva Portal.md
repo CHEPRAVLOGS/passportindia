@@ -38,7 +38,7 @@ Or
  
 OR
 
-#	Use can use Locate Passport Seva Kendra : [Locate Passport Seva Kendra](https://passportindia.gov.in/AppOnlineProject/locatePSK/locatePFCInp) directly from Passport Seva Kendra Portal
+###	Use can use Locate Passport Seva Kendra : [Locate Passport Seva Kendra](https://passportindia.gov.in/AppOnlineProject/locatePSK/locatePFCInp) directly from Passport Seva Kendra Portal
  
 ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture4.jpg)
 
@@ -63,6 +63,7 @@ Important Points to Note while filling the FORM online.
 Post registering user account you will see this message: Thank you for registering on the Passport Seva Portal. To activate your account, please click the link in the email sent to your email Id. This link will be active only till 25/05/2023 
 
 ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture8.jpg)
+
 # Step3: Verify your email ID 
 
 Registration confirmation mail will be sent to your registered email ID: (CHEPRAVLOGS@gmail.com) as shown below:
