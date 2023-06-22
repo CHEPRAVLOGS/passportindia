@@ -33,7 +33,7 @@ Or
 
  ### List of PSK & POPSK avalible in your region
  
- ![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture3.png)
+![ScreenShot](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture3.png)
  
 OR
 
