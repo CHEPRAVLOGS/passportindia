@@ -14,6 +14,8 @@ This tutorial walks you through the creation of register a new user in Passport 
 
 **Step1:** Visit passport seva portal (Website): `https://passportindia.gov.in/`
 
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture0.jpg)
+
 Or 
 
 `mPassport Seva` is now available on Android and iOS platforms. Latest version of the application can be downloaded from the following:
