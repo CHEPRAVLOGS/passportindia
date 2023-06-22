@@ -24,7 +24,7 @@ Or
 
 **Step2:** Register yourself as a new user by creating User ID by clicking on New User Registration on the Home page as shown:
 
-![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.png)
+![image](https://github.com/CHEPRAVLOGS/passportindia/blob/main/articles/English/Media/New%20User%20Registration/Picture1.jpg)
 
  
 **Note:** You need to have a gmail ID (`chepravlogs@gmail`) to verify the registered user ID
