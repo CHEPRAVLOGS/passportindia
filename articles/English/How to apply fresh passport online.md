@@ -11,4 +11,4 @@ ms.topic: tutorial
 
 This tutorial walks you how to apply fresh passport online??
 
-# **STEP1:** Go to 
+# **STEP1:** Step1: Visit passport seva portal (Website): `https://passportindia.gov.in/`
